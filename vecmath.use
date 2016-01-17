@@ -1,5 +1,6 @@
 Name:		Vector Math Module example
 Description:	Simple module that implements vectors and matrices in pure ooc
-Version:	localdev
+Version:	master
+Origin:		git://github.com/h3l1xc/ooc-vecmath.git
 SourcePath:	source
 Main:		vecmath

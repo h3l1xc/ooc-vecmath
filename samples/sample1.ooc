@@ -1,3 +1,4 @@
+use		vecmath
 import	vecmath
 
 main:	func (args: String[]) -> Int {
